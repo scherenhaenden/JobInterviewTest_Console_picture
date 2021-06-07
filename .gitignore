@@ -349,3 +349,4 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 DisplayPicturesViaConsole/.idea/.idea.DisplayPicturesViaConsole/.idea/
+DisplayPicturesViaConsole/Data/.directory
